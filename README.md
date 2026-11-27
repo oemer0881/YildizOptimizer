@@ -8,6 +8,8 @@
 
 ## ✨ Funktionen
 
+**153 Optionen** mit animiertem Start.
+
 | Bereich | Inhalt |
 |---|---|
 | 📊 Start | Live-Anzeige für CPU, RAM und Datenträger |
@@ -16,8 +18,9 @@
 | 🪟 Windows | Werbung, Vorschläge, stille Installationen, Schnellstart |
 | 🎨 Design | Dark Mode, Effekte, Explorer, Taskleiste |
 | 📦 Debloat | Vorinstallierte Apps gezielt entfernen |
-| 🧹 Reinigung | Temp, Caches, Papierkorb, Update-Reste, TRIM |
-| 🧰 Tools | Systemwerkzeuge, SFC und DISM |
+| 🧹 Reinigung | Temp, Caches, Papierkorb, Update-Reste, TRIM, Wiederherstellungspunkt |
+| 🧰 Tools | Systemwerkzeuge, SFC, DISM, Netzwerk-Reset |
+| ⬇️ Programme | Beliebte Programme per winget installieren |
 
 ## 🚀 Download & Start
 1. [**Neueste Version herunterladen**](https://github.com/oemer0881/YildizOptimizer/releases/latest)
@@ -25,7 +28,7 @@
 
 > Die EXE ist nicht signiert, deshalb kann Windows SmartScreen beim ersten Start warnen.
 
-Aktuelle Version: **0.3.0** (erscheint unter Releases, sobald der erste Build veröffentlicht ist)
+Aktuelle Version: **0.4.0** (erscheint unter Releases, sobald der erste Build veröffentlicht ist)
 
 ## 🛡️ Sicherheit
 - Originalwerte landen in `%LOCALAPPDATA%\YildizOptimizer\backup.json`
