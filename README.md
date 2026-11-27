@@ -10,11 +10,14 @@
 
 | Bereich | Inhalt |
 |---|---|
-| 🎮 Gaming | Spielmodus, Game DVR, Mausbeschleunigung, Energieplan |
-| 🪟 Windows | Effekte, Animationen, Menüs, Werbung und Vorschläge |
-| 🧹 Reinigung | Temp, Shader-Cache, DNS, Papierkorb |
-| 🧰 Tools | Autostart, Speicher, Updates, Task-Manager |
-| 🚀 Mehr FPS | Checkliste für Treiber, BIOS und Spieleinstellungen |
+| 📊 Start | Live-Anzeige für CPU, RAM und Datenträger |
+| 🎮 Gaming | Spielmodus, Game DVR, Maus, Tasten-Popups, Energieplan, HAGS |
+| 🔒 Datenschutz | Werbe-ID, Feedback, Eingabedaten, Websuche, Diagnosedaten |
+| 🪟 Windows | Werbung, Vorschläge, stille Installationen, Schnellstart |
+| 🎨 Design | Dark Mode, Effekte, Explorer, Taskleiste |
+| 📦 Debloat | Vorinstallierte Apps gezielt entfernen |
+| 🧹 Reinigung | Temp, Caches, Papierkorb, Update-Reste, TRIM |
+| 🧰 Tools | Systemwerkzeuge, SFC und DISM |
 
 ## 🚀 Download & Start
 1. [**Neueste Version herunterladen**](https://github.com/oemer0881/YildizOptimizer/releases/latest)
@@ -22,12 +25,12 @@
 
 > Die EXE ist nicht signiert, deshalb kann Windows SmartScreen beim ersten Start warnen.
 
-Aktuelle Version: **0.2.0** (erscheint unter Releases, sobald der erste Build veröffentlicht ist)
+Aktuelle Version: **0.3.0** (erscheint unter Releases, sobald der erste Build veröffentlicht ist)
 
 ## 🛡️ Sicherheit
 - Originalwerte landen in `%LOCALAPPDATA%\YildizOptimizer\backup.json`
 - **Rückgängig** stellt Einstellungen und Energieplan wieder her
-- Gelöschte Dateien lassen sich nicht wiederherstellen
+- Gelöschte Dateien und entfernte Apps stellt Rückgängig nicht wieder her (Apps ggf. über den Microsoft Store)
 - Defender, Firewall und Windows Update bleiben unangetastet
 
 > Wie viel FPS dazukommen, hängt vom PC und Spiel ab. Oft ist der Unterschied durch Windows-Einstellungen klein.
