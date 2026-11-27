@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6" alt="Windows">
 <img src="https://img.shields.io/badge/PowerShell-WPF-5391FE" alt="PowerShell">
-<img src="https://img.shields.io/badge/Status-ungetestet-orange" alt="Status">
+<img src="https://img.shields.io/badge/Status-Beta-orange" alt="Status">
 </p>
 
 ## ✨ Funktionen
@@ -18,10 +18,11 @@
 
 ## 🚀 Download & Start
 1. [**Neueste Version herunterladen**](https://github.com/oemer0881/YildizOptimizer/releases/latest)
-2. ZIP entpacken
-3. `Start.bat` doppelklicken
+2. `YildizOptimizer.exe` doppelklicken
 
-Aktuelle Version: **0.1.0** (erscheint unter Releases, sobald der erste Build veröffentlicht ist)
+> Die EXE ist nicht signiert, deshalb kann Windows SmartScreen beim ersten Start warnen.
+
+Aktuelle Version: **0.2.0** (erscheint unter Releases, sobald der erste Build veröffentlicht ist)
 
 ## 🛡️ Sicherheit
 - Originalwerte landen in `%LOCALAPPDATA%\YildizOptimizer\backup.json`
