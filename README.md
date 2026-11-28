@@ -8,11 +8,14 @@
 
 ## Funktionen
 
-**153 Optionen** mit animiertem Start.
+**153 Optionen** mit animiertem Start, Suche, Status-Anzeige und speicherbaren Profilen.
 
 | Bereich | Inhalt |
 |---|---|
-| Start | Live-Anzeige für CPU, RAM und Datenträger |
+| Start | Optimierungs-Stand und Live-Anzeige für CPU, RAM, Datenträger |
+| System | Hardware, Treiber, RAM-Takt, Datenträgerzustand |
+| Autostart | Programme beim Start an- und ausschalten |
+| Netzwerk | Ping messen, DNS-Server wechseln |
 | Gaming | Spielmodus, Game DVR, Maus, Tasten-Popups, Energieplan, HAGS |
 | Datenschutz | Werbe-ID, Feedback, Eingabedaten, Websuche, Diagnosedaten |
 | Windows | Werbung, Vorschläge, stille Installationen, Schnellstart |
@@ -28,7 +31,7 @@
 
 > Die EXE ist nicht signiert, deshalb kann Windows SmartScreen beim ersten Start warnen.
 
-Aktuelle Version: **0.5.0** (erscheint unter Releases, sobald der erste Build veröffentlicht ist)
+Aktuelle Version: **0.6.0**
 
 ## Sicherheit
 - Originalwerte landen in `%LOCALAPPDATA%\YildizOptimizer\backup.json`
