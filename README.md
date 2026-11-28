@@ -12,9 +12,11 @@
 
 | Bereich | Inhalt |
 |---|---|
-| Start | Optimierungs-Stand und Live-Anzeige für CPU, RAM, Datenträger |
+| Start | 1-Klick-Optimierung, Optimierungs-Stand und Live-Anzeige für CPU, RAM, Datenträger |
 | System | Hardware, Treiber, RAM-Takt, Datenträgerzustand |
 | Autostart | Programme beim Start an- und ausschalten |
+| Check | PC-Prüfung mit Empfehlungen zu Bildschirm, RAM, Speicher und mehr |
+| Prozesse | Speicherfresser anzeigen und beenden |
 | Booster | Spiele mit hoher Priorität und Höchstleistung starten |
 | Speicher | Cache-Größen und größte Dateien anzeigen |
 | Netzwerk | Ping messen, DNS-Server wechseln |
@@ -33,7 +35,7 @@
 
 > Die EXE ist nicht signiert, deshalb kann Windows SmartScreen beim ersten Start warnen.
 
-Aktuelle Version: **0.7.0**
+Aktuelle Version: **0.8.0**
 
 ## Sicherheit
 - Originalwerte landen in `%LOCALAPPDATA%\YildizOptimizer\backup.json`
